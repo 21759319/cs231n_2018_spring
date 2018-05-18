@@ -1,5 +1,5 @@
-# cs231n_2018_spring
-stanford cs231 2018spring
+# cs231n 2018 spring
+Stanford CS231 2018 Spring
 
 |解释|文件名|
 -|:-:
