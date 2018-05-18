@@ -7,3 +7,5 @@ Stanford CS231 2018 Spring
 课件|
 笔记|
 作业|
+
+#[课程大纲](http://cs231n.stanford.edu/syllabus.html)
